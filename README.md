@@ -2,9 +2,11 @@
 
 An English, source-backed architecture visualization of [Runtime AI Scientist](https://github.com/systemind-team/Runtime-AI-Scientist), maintained as a personal visualization by JY0xLU.
 
-[![Execution architecture](architecture.svg)](https://jy0xlu.github.io/runtime-ai-scientist-architecture/)
+[![Execution architecture](architecture.png)](https://jy0xlu.github.io/runtime-ai-scientist-architecture/)
 
-**[Open interactive architecture ↗](https://jy0xlu.github.io/runtime-ai-scientist-architecture/)** · [Download HTML](https://github.com/JY0xLU/runtime-ai-scientist-architecture/raw/refs/heads/main/index.html) · [SVG overview](architecture.svg)
+**[Open interactive architecture ↗](https://jy0xlu.github.io/runtime-ai-scientist-architecture/)** · [Download HTML](https://github.com/JY0xLU/runtime-ai-scientist-architecture/raw/refs/heads/main/index.html) · [Full-resolution PNG](architecture.png)
+
+The preview is a native PNG export of the same Archify diagram shown on the interactive page.
 
 The interactive map supports zoom, node focus, source references, light/dark themes and export. Source references are pinned to upstream revision `bf11766341e2fbf60612bf486f577d6db33ea259`.
 
